@@ -1,10 +1,10 @@
 import React from 'react';
 
-import { Page } from './Page';
+import { Page } from '../components/Page';
 import * as HeaderStories from './Header.stories';
 
 export default {
-  title: 'Example/Page',
+  title: 'Components/Page',
   component: Page,
 };
 
